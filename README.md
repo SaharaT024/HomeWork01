@@ -22,3 +22,6 @@
 * $cd คือการเข้าไปใน Folder นั้นๆตามที่เราต้องการ เช่น cd test1 
   แต่ถ้าต้องการออกจาก Folder นั้นๆ ก็เพียงแค่พิม cd อย่างเดียวก็จะสามารถออกมาได้
 * $clear คือ การล้างหน้าคำสั่งต่างๆที่พิมไว้ใน Cmd ทำให้หน้าจอวางเปล่าเหลือแค่บรรทัดที่รับคำสั่ง
+
+## [Reference](https://medium.com/@pakin/git-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-git-is-your-friend-c609c5f8efea) 
+เรียบเรียงโดย [นาย สหรัฐ จันทร์ทิพย์](https://www.facebook.com/saharat.chanthip)
